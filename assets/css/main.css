@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
 /*
 	Lens by HTML5 UP
@@ -177,6 +178,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
+		font-family: "Roboto+Condensed", Helvetica, sans-serif;
 		line-height: 1.25;
 		margin: 0 0 0.5em 0;
 		color: #555;
